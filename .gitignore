@@ -13,9 +13,10 @@ __pycache__/
 instance/
 .webassets-cache
 
-# Environment variables
+# Environment variables — NEVER commit these
 .env
 .env.*
+env.local
 
 # Distribution / packaging
 dist/
